@@ -5,3 +5,5 @@ good function
 change by test 
 change bt payfor 
 add some function
+hello moto
+nihao zaijian
